@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="288c7df0-ebd5-4773-bf56-a22bc746ee81" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/laravel-socialite/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-socialite/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-socialite/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-socialite/config/services.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-socialite/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-socialite/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel-socialite/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-socialite/resources/views/auth/register.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,22 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/layouts/app.blade.php">
+        <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-606" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/auth/login.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
-              <folding>
-                <element signature="e#3175#3197#0#HTML" expanded="true" />
-                <element signature="e#3364#3394#0#HTML" expanded="true" />
-                <element signature="e#3527#3557#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="521">
+              <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -39,35 +29,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/auth/register.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1112">
-              <caret line="65" column="76" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="76" />
+            <state relative-caret-position="355">
+              <caret line="72" column="27" lean-forward="true" selection-start-line="72" selection-start-column="27" selection-end-line="77" selection-end-column="34" />
               <folding>
-                <element signature="e#3639#3669#0#HTML" expanded="true" />
+                <element signature="e#3670#3691#0#HTML" expanded="true" />
+                <element signature="e#3851#3873#0#HTML" expanded="true" />
+                <element signature="e#3640#3662#0#HTML" expanded="true" />
                 <element signature="e#3828#3860#0#HTML" expanded="true" />
-                <element signature="e#4024#4054#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/auth/login.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
+              <folding>
+                <element signature="e#3202#3223#0#HTML" expanded="true" />
+                <element signature="e#3383#3405#0#HTML" expanded="true" />
+                <element signature="e#3538#3560#0#HTML" expanded="true" />
+                <element signature="e#3719#3741#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel-socialite/readme.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/laravel-socialite/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel-socialite/webpack.mix.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/laravel-socialite/artisan">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/laravel-socialite/config/services.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="604">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -96,14 +96,14 @@
         <option value="$PROJECT_DIR$/laravel-socialite/resources/assets/sass/_variables.scss" />
         <option value="$PROJECT_DIR$/laravel-socialite/webpack.mix.js" />
         <option value="$PROJECT_DIR$/laravel-socialite/public/css/app.css" />
-        <option value="$PROJECT_DIR$/laravel-socialite/config/services.php" />
         <option value="$PROJECT_DIR$/laravel-socialite/resources/views/layouts/app.blade.php" />
         <option value="$PROJECT_DIR$/laravel-socialite/routes/web.php" />
         <option value="$PROJECT_DIR$/laravel-socialite/app/Http/Controllers/Auth/LoginController.php" />
         <option value="$PROJECT_DIR$/laravel-socialite/resources/views/welcome.blade.php" />
-        <option value="$PROJECT_DIR$/laravel-socialite/resources/views/auth/login.blade.php" />
-        <option value="$PROJECT_DIR$/laravel-socialite/resources/views/auth/register.blade.php" />
         <option value="$PROJECT_DIR$/laravel-socialite/readme.md" />
+        <option value="$PROJECT_DIR$/laravel-socialite/resources/views/auth/register.blade.php" />
+        <option value="$PROJECT_DIR$/laravel-socialite/config/services.php" />
+        <option value="$PROJECT_DIR$/laravel-socialite/resources/views/auth/login.blade.php" />
       </list>
     </option>
   </component>
@@ -235,14 +235,7 @@
               <item name="Laravel-Sociallite" type="b2602c69:ProjectViewProjectNode" />
               <item name="Laravel-Sociallite" type="462c0819:PsiDirectoryNode" />
               <item name="laravel-socialite" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Laravel-Sociallite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Laravel-Sociallite" type="462c0819:PsiDirectoryNode" />
-              <item name="laravel-socialite" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Laravel-Sociallite" type="b2602c69:ProjectViewProjectNode" />
@@ -272,6 +265,12 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Laravel-Sociallite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Laravel-Sociallite" type="462c0819:PsiDirectoryNode" />
+              <item name="laravel-socialite" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -319,15 +318,16 @@
       <option name="presentableId" value="Default" />
       <updated>1573951465533</updated>
       <workItem from="1573951467009" duration="6201000" />
-      <workItem from="1573966445869" duration="1814000" />
+      <workItem from="1573966445869" duration="3292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8015000" />
+    <option name="totallyTimeSpent" value="9493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21745351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -375,23 +375,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/laravel-socialite_1/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel-socialite_1/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel-socialite_1/bootstrap/app.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/laravel-socialite_1/app/Providers/AppServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -611,9 +594,6 @@
     <entry file="file://$PROJECT_DIR$/laravel-socialite/composer.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel-socialite/composer.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/laravel-socialite/config/session.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -638,51 +618,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel-socialite/config/services.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="40" column="39" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/layouts/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-606" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/auth/login.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
-          <folding>
-            <element signature="e#3175#3197#0#HTML" expanded="true" />
-            <element signature="e#3364#3394#0#HTML" expanded="true" />
-            <element signature="e#3527#3557#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/laravel-socialite/package.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/auth/register.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1112">
-          <caret line="65" column="76" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="76" />
-          <folding>
-            <element signature="e#3639#3669#0#HTML" expanded="true" />
-            <element signature="e#3828#3860#0#HTML" expanded="true" />
-            <element signature="e#4024#4054#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel-socialite/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -697,6 +639,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel-socialite/artisan">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/public/web.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/public/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/config/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="604">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/auth/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="72" column="27" lean-forward="true" selection-start-line="72" selection-start-column="27" selection-end-line="77" selection-end-column="34" />
+          <folding>
+            <element signature="e#3670#3691#0#HTML" expanded="true" />
+            <element signature="e#3851#3873#0#HTML" expanded="true" />
+            <element signature="e#3640#3662#0#HTML" expanded="true" />
+            <element signature="e#3828#3860#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel-socialite/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
+          <folding>
+            <element signature="e#3202#3223#0#HTML" expanded="true" />
+            <element signature="e#3383#3405#0#HTML" expanded="true" />
+            <element signature="e#3538#3560#0#HTML" expanded="true" />
+            <element signature="e#3719#3741#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

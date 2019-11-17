@@ -70,10 +70,11 @@
                         </div>
                         <hr>
                         <div class="form-group">
-                            <div class="col-md-6 col-md-offset-4">
-                                <a href="{{ url('/login/github') }}" class="btn btn-github" style="color:rgb(61, 65, 68);"><i class="fa fa-github"></i> Github</a>
-                                <a href="{{ url('/login/twitter') }}" class="btn btn-twitter" class="btn btn-twitter" style="color:rgb(18, 131, 195);"><i class="fa fa-twitter"></i> Twitter</a>
-                                <a href="{{ url('/login/facebook') }}" class="btn btn-facebook" class="btn btn-facebook" style="color:rgb(5, 72, 175);"><i class="fa fa-facebook"></i> Facebook</a>
+                            <div class="col-md-12 col-md-offset-4">
+                                <a href="{{ url('/login/facebook') }}" class="btn btn-facebook" class="btn btn-facebook" style="color:#3B5998"><i class="fa fa-facebook"></i> Facebook</a>
+                                <a href="{{ url('/login/google') }}" class="btn btn-google" class="btn btn-google" style="color:#DD4B39;"><i class="fa fa-google"></i> Google</a>
+                                <a href="{{ url('/login/github') }}" class="btn btn-github" style="color:#444444;"><i class="fa fa-github"></i> Github</a>
+                                <a href="{{ url('/login/twitter') }}" class="btn btn-twitter" class="btn btn-twitter" style="color:#55ACEE;"><i class="fa fa-twitter"></i> Twitter</a>
                             </div>
                         </div>
                     </form>
